@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1054901956706",
+    "project_id": "firesos-210e0",
+    "storage_bucket": "firesos-210e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054901956706:android:f2b93ca526f38022b1213b",
+        "android_client_info": {
+          "package_name": "com.example.firesos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054901956706-9tvpfo3mhcd0irbha3g0ef4s21b6b526.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9E_U6xVYaY4JxszTKEoWblJN_guCem3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054901956706-9tvpfo3mhcd0irbha3g0ef4s21b6b526.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1054901956706-jso3n87h82b2n9qke766vtpa5lgu6oj0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firesos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
